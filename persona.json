@@ -1,4 +1,7 @@
 {
+  "slug": "secondme-skill",
+  "personaName": "secondme-skill",
+  "bio": "A local-first personal AI double framework that helps users build, govern, and evolve their own digital self with clear data ownership and human approval gates.",
   "version": "0.1.0",
   "author": "acnlabs",
   "soul": {
